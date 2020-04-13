@@ -1,0 +1,57 @@
+##Examples
+1. If the patient has a leg injury, paracetamol is not necessary.
+#
+2. Symptoms of flu include fever and cough.
+#
+3. symptoms of migraine may involve infarction and seizures
+#
+4. fever is a symptom in more than 80 percent of West Nile virus infection patient
+#
+5. Severe symptoms and signs may include stiff neck, sleepiness, disorientation, coma, tremors, convulsions, and paralysis.
+#
+6. cholera symptoms are watery diarrhea (sometimes in large volumes), Fishy odor to stools, Vomiting, Rapid heart rate, Loss of skin elasticity (washer woman hands sign; see figure 2), Dry mucous membranes (dry mouth), Low blood pressure.
+#
+7. Constitutional symptoms such as fatigue, fever, and weight loss are present in most lupus patients.
+#
+8. Arthritis occur in over 90 percent of patients with SLE
+#
+9. Most patients have skin and mucous membrane lesions 
+#
+10. West Nile fever includes fever, headache, malaise, back pain, myalgias, and anorexia.
+#
+11. A maculopapular rash appears in all patients.
+#
+12. neurological manifestations include tremor, myoclonus, rigidity, postural instability, and bradykinesia.
+#
+13. When distal DVT is not identified, no further testing is required;
+#
+14. We prefer to obtain a liver biopsy in all patients with suspected autoimmune hepatitis.
+#
+15. A variety of metabolic abnormalities can occur in hypothyroidism, including hyponatremia, hyperlipidemia, anemia, and high serum muscle enzyme concentrations.
+#
+16. Arthritis and arthralgias occur in over 90 percent of patients with SLE
+#
+17. Most patients have skin and mucous membrane lesions at some point during the course of the disease.
+#
+18. Several vascular abnormalities including Raynaud phenomenon, vasculitis, and thromboembolic disease can occur in SLE patients.
+#
+19. Renal involvement is clinically apparent in approximately 50 percent of patients.
+#
+20. Cardiac manifestations include pericarditis (with or without an effusion), verrucous, (Libman-Sacks) endocarditis, myocarditis, and coronary artery disease.
+#
+21. Any structure of the eye can be involved in SLE.
+#
+22. A maculopapular rash appears in up to one half of such patients.
+#
+23. Encephalitis that is associated with muscle weakness and flaccid paralysis is particularly suggestive of WN virus infection.
+#
+24. Other neurologic manifestations include tremor, myoclonus, and Parkinsonian features such as rigidity, postural instability, and bradykinesia.
+#
+25. In patients with neurologic symptoms, a lumbar puncture should also be performed.
+#
+26. We prefer to obtain a liver biopsy in all patients in whom autoimmune hepatitis is suspected.
+#
+27. Evaluation of postpartum hypopituitarism should be performed whenever it is suspected after a delivery associated with unusually heavy blood loss.
+#
+28. DVT is diagnosed if ultrasonography is positive.
+
