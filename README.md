@@ -49,5 +49,6 @@ and check how bad we're doing. GKR can't deal with conditionals, yet.
 
 12. Medical WordNet: a new methodology for the construction and validation of information resources for consumer health
 Authors: Barry  Smith and Christiane  Fellbaum 
-COLING '04: Proceedings of the 20th international conference on Computational LinguisticsAugust 2004 Pages 371–es https://doi.org/10.3115/1220355.1220409
+COLING '04: Proceedings of the 20th international conference on Computational Linguistics August 2004 Pages 371–es https://doi.org/10.3115/1220355.1220409
 https://www.aclweb.org/anthology/C04-1054.pdf
+http://verbs.colorado.edu/~mpalmer/Ling7800/WN-BioWN.pdf
