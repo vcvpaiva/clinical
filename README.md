@@ -54,6 +54,7 @@ Authors: Barry  Smith and Christiane  Fellbaum
 COLING '04: Proceedings of the 20th international conference on Computational Linguistics August 2004 Pages 371–es https://doi.org/10.3115/1220355.1220409
 https://www.aclweb.org/anthology/C04-1054.pdf
 http://verbs.colorado.edu/~mpalmer/Ling7800/WN-BioWN.pdf
+http://compling.hss.ntu.edu.sg/events/2018-gwc/pdfs/GWC2018_paper_49.pdf Wordnet of Medical Events GWC2018
 
 13. First International Workshop on Formal Biomedical Knowledge Representation (KR-MED 2004)
 http://ceur-ws.org/Vol-102/
