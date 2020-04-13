@@ -1,6 +1,6 @@
-Trying to write to you about stuff to do about the coronavirus crisis is much harder than I thought, 
+Trying to write about possible projects to do about the coronavirus crisis is much harder than I thought, 
 as I keep thinking of new google queries to try, getting down rabbit holes and then thinking of new possible things to do.
-but here's an attempt at reviewing my thoughts.
+but here's an attempt at reviewing my thoughts this week.
 
 1. I wanted to use NLP to read biomedical texts;
 
