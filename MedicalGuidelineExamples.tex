@@ -1,0 +1,56 @@
+1. If the patient has a leg injury, paracetamol is not necessary.
+% paracetamol missing from PWN,  conditional
+2. Symptoms of flu include fever and cough.
+% ok
+3. symptoms of migraine may involve infarction and seizures
+% ok, modal may
+4. fever is a symptom in more than 80 percent of West Nile virus infection patient
+% long MWE and numerical reasoning
+5. Severe symptoms and signs may include stiff neck, sleepiness, disorientation, coma, tremors, convulsions, and paralysis.
+% ok long list
+6. cholera symptoms are watery diarrhea (sometimes in large volumes), Fishy odor to stools, Vomiting, Rapid heart rate, Loss of skin elasticity (washer woman hands sign; see figure 2), Dry mucous membranes (dry mouth), Low blood pressure.
+% doesn't complete (long list? or parenthesis?)
+7. Constitutional symptoms such as fatigue, fever, and weight loss are present in most lupus patients.
+%Constitutional is not proper and not cardinal? 6 senses of adjective, 2 equally good? what to do about most?
+8. Arthritis occur in over 90 percent of patients with SLE
+% numerical reasoning, abbreviations (SLE=Systemic lupus erythematosus) arthritis is not a proper noun, just the beginning of the sentence
+9. Most patients have skin and mucous membrane lesions 
+% parsing "mucous membrane" lesions!
+10. West Nile fever includes fever, headache, malaise, back pain, myalgias, and anorexia.
+% "West Nile" (not found) WN fever needs to be connected to West Nile virus? why anorexia was not found? it's in PWN
+11. A maculopapular rash appears in all patients.
+% MWE: "maculopapular rash" in Wikipedia, maculopapular not in PWN
+12. neurological manifestations include tremor, myoclonus, rigidity, postural instability, and bradykinesia.
+% bradykinesia. missing, 
+13. When distal DVT is not identified, no further testing is required;
+% abbrev DVT=Deep vein thrombosis
+14. We prefer to obtain a liver biopsy in all patients with suspected autoimmune hepatitis.
+% "suspected" should create a context
+15. A variety of metabolic abnormalities can occur in hypothyroidism, including hyponatremia, hyperlipidemia, anemia, and high serum muscle enzyme concentrations.
+% nothing missing in WN, but "can" context?
+16. Arthritis and arthralgias occur in over 90 percent of patients with SLE
+% only SLE missing, even if emacs doesn't recognize arthralgias, WN does
+17. Most patients have skin and mucous membrane lesions at some point during the course of the disease.
+% parsing doesn't get "mucous mebrane lesions"
+18. Several vascular abnormalities including Raynaud phenomenon, vasculitis, and thromboembolic disease can occur in SLE patients.
+% mwe:Raynaud phenomenon missing, thromboembolic missing
+19. Renal involvement is clinically apparent in approximately 50 percent of patients.
+% numerical reasoning, mwe: renal involvement 
+20. Cardiac manifestations include pericarditis (with or without an effusion), verrucous, (Libman-Sacks) endocarditis, myocarditis, and coronary artery disease.
+% not completing, parenthesis? long list?
+21. Any structure of the eye can be involved in SLE.
+% any quantifier?
+22. A maculopapular rash appears in up to one half of such patients.
+%as before: maculopapular rash (https://en.wikipedia.org/wiki/Maculopapular_rash), numerical reasoning
+23. Encephalitis that is associated with muscle weakness and flaccid paralysis is particularly suggestive of WN virus infection.
+%missing WN and flaccid??? why? it's in WN!
+24. Other neurologic manifestations include tremor, myoclonus, and Parkinsonian features such as rigidity, postural instability, and bradykinesia.
+%as before bradykinesia, but also parkinsonian(??) and neurologic?
+25. In patients with neurologic symptoms, a lumbar puncture should also be performed.
+% "lumbar" missing? "also" is a problem
+26. We prefer to obtain a liver biopsy in all patients in whom autoimmune hepatitis is suspected.
+% pronoun "we" missing
+27. Evaluation of postpartum hypopituitarism should be performed whenever it is suspected after a delivery associated with unusually heavy blood loss.
+% whenever, postpartum,  hypopituitarism missing conditional
+28. DVT is diagnosed if ultrasonography is positive.
+%abreviation DVT missing, conditional missing
