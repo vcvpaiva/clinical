@@ -62,3 +62,7 @@ very clear presentation on UMLS
 https://www.slideshare.net/roger961/the-unified-medical-language-system-what-is-it-and-how-to-use-it
 
 14. https://github.com/stylerw/thymedata This is a repository for annotation data for the THYME Project, a clinical natural language processing project dedicated to extracting useful temporal relations from the clinical narrative. http://thyme.healthnlp.org (M. Palmer included)
+
+15. Recent open source dataset from Roam Analytics (Potts)
+Effective Feature Representation for Clinical Text Concept Extraction. Proceedings of the NAACL Workshop on Clinical Natural Language Processing (NAACL-ClinicalNLP), 2019.https://github.com/roamanalytics/roamresearch/tree/master/Papers/Feature4Healthcare or
+https://github.com/roamanalytics/roamresearch/tree/master/Papers/PSL-drugs-diseases
