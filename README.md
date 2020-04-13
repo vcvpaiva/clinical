@@ -11,7 +11,7 @@ can expect other doctors to have, but not any joe in the streets;
 3. My expectation is that many of these texts will still have quite a lot of "domain knowledge" in the shape of names of diseases 
 or conditions, names of drugs or medications or procedures, etc.
 
-4. I know of at least one taxonomy for these clinical terms, called SNOMED CT (CT is for clinical terms) 
+4. I know of at least one taxonomy for these clinical terms, called SNOMED CT (CT is for clinical terms http://www.snomed.org/) 
 (https://tools.wmflabs.org/freebase/m/08wb1y). 
 
 5. these SNOMED CTs have been mapped to Wikidata see project description in 
