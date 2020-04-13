@@ -12,7 +12,7 @@ can expect other doctors to have, but not any joe in the streets;
 or conditions, names of drugs or medications or procedures, etc.
 
 4. I know of at least one taxonomy for these clinical terms, called SNOMED CT (CT is for clinical terms http://www.snomed.org/) 
-(https://tools.wmflabs.org/freebase/m/08wb1y). 
+(https://tools.wmflabs.org/freebase/m/08wb1y). Another is Unified Medical Language System (UMLS) https://lhncbc.nlm.nih.gov/system/files/pub2001027.pdf
 
 5. these SNOMED CTs have been mapped to Wikidata see project description in 
 https://www.wikidata.org/wiki/Wikidata:Property_proposal/SNOMED_CT_identifier
