@@ -80,5 +80,7 @@ An initial list of preloaded data sets include:
     Clinical Data: COVID-19 Chest X-Ray and CT Images
 (can't find these data myself!)
 
-17. AZ suggests checking https://www.statnews.com/
+17.Wikidata Inbalance Dashboard https://prowd.netlify.com/
+
+18. AZ suggests checking https://www.statnews.com/
 seems well-written news about COVID-19.
