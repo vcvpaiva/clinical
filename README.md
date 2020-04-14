@@ -66,3 +66,16 @@ https://www.slideshare.net/roger961/the-unified-medical-language-system-what-is-
 15. Recent open source dataset from Roam Analytics (Potts)
 Effective Feature Representation for Clinical Text Concept Extraction. Proceedings of the NAACL Workshop on Clinical Natural Language Processing (NAACL-ClinicalNLP), 2019.https://github.com/roamanalytics/roamresearch/tree/master/Papers/Feature4Healthcare or
 https://github.com/roamanalytics/roamresearch/tree/master/Papers/PSL-drugs-diseases
+
+16. There's plenty of text about the coronavirus and covid-19, mostly research papers, e.g. "Microsoft Research, the National Library of Medicine, and the Allen Institute for AI (AI2), gathered and prepared over 29,000 papers related to the new virus and the wider coronavirus family, 13,000 of them processed so that computers can read the underlying data, plus information about the authors and their affiliations. from https://www.wired.com/story/researchers-deploy-ai-better-understand-coronavirus/".
+https://c3dti.ai/ is another consortium. They say:
+An initial list of preloaded data sets include:
+
+    Epidemiological Data: Johns Hopkins
+    Clinical Data: Line Lists
+    Genomic Data: NCBI Viral Sequences
+    Journal Articles: CORD-19 Dataset
+    Epidemiological Data: WHO Situational Reports
+    Epidemiological Data: Atlantic COVID-19 Tracking Project
+    Clinical Data: COVID-19 Chest X-Ray and CT Images
+
