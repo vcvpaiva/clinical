@@ -78,4 +78,7 @@ An initial list of preloaded data sets include:
     Epidemiological Data: WHO Situational Reports
     Epidemiological Data: Atlantic COVID-19 Tracking Project
     Clinical Data: COVID-19 Chest X-Ray and CT Images
+(can't find these data myself!)
 
+17. AZ suggests checking https://www.statnews.com/
+seems well-written news about COVID-19.
