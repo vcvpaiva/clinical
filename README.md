@@ -60,6 +60,7 @@ http://compling.hss.ntu.edu.sg/events/2018-gwc/pdfs/GWC2018_paper_49.pdf Wordnet
 http://ceur-ws.org/Vol-102/
 very clear presentation on UMLS
 https://www.slideshare.net/roger961/the-unified-medical-language-system-what-is-it-and-how-to-use-it
+Barry Smith (of Medical WordNet) also has a full page of medical ontologies http://ontology.buffalo.edu/smith/, including a infectious diseases one.
 
 14. https://github.com/stylerw/thymedata This is a repository for annotation data for the THYME Project, a clinical natural language processing project dedicated to extracting useful temporal relations from the clinical narrative. http://thyme.healthnlp.org (M. Palmer included)
 
