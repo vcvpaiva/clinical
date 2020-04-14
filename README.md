@@ -80,7 +80,10 @@ An initial list of preloaded data sets include:
     Clinical Data: COVID-19 Chest X-Ray and CT Images
 (can't find these data myself!)
 
-17.Wikidata Inbalance Dashboard https://prowd.netlify.com/
+17. Wikidata Imbalance Dashboard https://prowd.netlify.com/
+infectious disease - Q18123741
+disease caused by infection of pathogenic biological agents in a host organism
+Number of entities: 493
 
 18. AZ suggests checking https://www.statnews.com/
 seems well-written news about COVID-19.
