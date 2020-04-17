@@ -106,3 +106,6 @@ Accessing the Dataset
 We have made this dataset available on Kaggle. Watch out for periodic updates.The dataset is also hosted on AI2's Semantic Scholar. And you can search the dataset using AI2's new COVID-19 explorer. The licenses for each dataset can be found in the all _ sources _ metadata csv file.
 
 20. Wikidata COVID-19 dashboard https://sites.google.com/view/covid19-dashboard/
+
+21. https://physionet.org/content/mednli/1.0.0/ MedNLI - A Natural Language Inference Dataset For The Clinical Domain, annotated by doctors, they say.
+
