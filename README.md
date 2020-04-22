@@ -39,15 +39,19 @@ their medical trials.
 https://clue.io/repurposing
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5568558/
 
-11. my idea was to look at medical guidelines for flu-like symptoms in say
+11. my idea was to look at medical guidelines for flu-like symptoms in say\\
 https://www.cdc.gov/flu/index.htm
+
 https://www.cdc.gov/flu/professionals/diagnosis/clinician_guidance_ridt.htm
+
 https://www.cdc.gov/flu/professionals/infectioncontrol/peri-post-settings.htm
+
 https://www.cdc.gov/flu/professionals/antivirals/summary-clinicians.htm
+
 try to construct a minitheory or at least a corpus of it and see what there is in Wikidata.
 
-But I haven't done anything yet. a friend sent me some easy "sentences" (attached) so that I can at least try them in our GKR system
-and check how bad we're doing. GKR can't deal with conditionals, yet.
+But I haven't done anything yet. a friend sent me some easy "sentences" (examples.txt) so that I can at least try them in our GKR system
+and check how bad we're doing. GKR can't deal with conditionals, named entities or temporal phenomena, yet.
 
 12. Medical WordNet: a new methodology for the construction and validation of information resources for consumer health
 Authors: Barry  Smith and Christiane  Fellbaum 
